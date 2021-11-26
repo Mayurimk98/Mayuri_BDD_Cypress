@@ -1,0 +1,9 @@
+
+What is BDD
+=>Behaviour driver development
+
+Why we used
+=>As of now no one in project maintain excel sheet ,PM give us feature file and according to that we write js file 
+
+NOTE: Feature file name must be same as folder name and js file name
+
