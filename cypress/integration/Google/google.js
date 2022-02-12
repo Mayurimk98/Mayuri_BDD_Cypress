@@ -1,7 +1,7 @@
 import {Given,Then} from "cypress-cucumber-preprocessor/steps";
 
 
-Given('I open Google page',()=>{
+Given('I open Google page web',()=>{
     cy.visit('https://google.com')
 })
 
